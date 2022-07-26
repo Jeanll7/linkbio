@@ -20,7 +20,7 @@ body a {
 main {
     overflow: auto;
     /* background-color: rgba(4, 5, 17, 0.866); */
-    background: linear-gradient(#111421, #08121dec);
+    background: linear-gradient(#0b0d16, #08121dec);
     height: 100vh;
     display: flex;
     flex-direction: column;
