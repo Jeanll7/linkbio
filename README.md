@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/Jeanll7/links-bio/36640f9f8117779924d241347d8d4793a369370b/card.svg"/>
+<!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/Jeanll7/links-bio/36640f9f8117779924d241347d8d4793a369370b/card.svg"/> -->
 <h1 align="left">Olá, Eu sou Jean Leal</h1>
 
 
